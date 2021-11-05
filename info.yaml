@@ -1,0 +1,28 @@
+# 예약 검색 시작 날짜
+# "searching_start_date": Int (ex 20211109),
+
+# 예약 검색 종료 날짜
+# "searching_end_date": Int (ex 20211211),
+
+# 인원 수
+# "persons": Int (ex 1),
+
+# 예약자 이름
+# "name": String (ex "홍길동"),
+
+# 입금자 이름
+# "depositor": String (ex "홍길동"),
+
+# 핸드폰 번호
+# "cell_num": String (ex "010-XXXX-XXXX"),
+
+# 두번째 페이지의 "예약 신청하기" 버튼을 자동으로 클릭하게 할 것인지 아닌지
+# "payment": Bool (ex True/False)
+
+searching_start_date: 20211107
+searching_end_date: 20211120
+persons: 1
+name: "홍길동"
+depositor: "홍길동"
+cell_num: "010-1234-5678"
+payment: False
